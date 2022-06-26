@@ -55,6 +55,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile_LakeSide Variant90
       objectReference: {fileID: 0}
+    - target: {fileID: 2758207120944283599, guid: 233523f144531d84aa12530bcad8b385, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3508581749517097028, guid: 233523f144531d84aa12530bcad8b385, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.7071068
